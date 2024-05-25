@@ -6,6 +6,10 @@ public class Runner {
 
         //versiyon 4
         System.out.println("hi");
+
+        //versiyon 5
+        System.out.println("nermin");
+
     }
 
 }
