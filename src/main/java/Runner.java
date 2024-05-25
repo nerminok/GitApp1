@@ -10,6 +10,9 @@ public class Runner {
         //versiyon 5
         System.out.println("nermin");
 
+        //versiyon 6
+        System.out.println("okuyucu");
+
     }
 
 }
