@@ -7,6 +7,8 @@ public class Runner {
         //versiyon 2
         System.out.println("git commit -m\"\" ile versiyon olusturulur.");
 
+        //versiyon 3
+        System.out.println("gecmise yolculuk");
 
 
 
