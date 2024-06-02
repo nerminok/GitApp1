@@ -11,7 +11,8 @@ public class Runner {
         System.out.println("gecmise yolculuk");
 
 
-
+       //versiyon 7
+        System.out.println(" ");
 
 
 
